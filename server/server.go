@@ -6,7 +6,6 @@ import (
 	"fmt"
 	"net/http"
 	"os"
-
 	"github.com/tinkershack/meteomunch/config"
 	e "github.com/tinkershack/meteomunch/errors"
 	"github.com/tinkershack/meteomunch/logger"
